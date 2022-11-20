@@ -10,11 +10,16 @@ This initial prototype includes a pretrained model NanoDetPlus by RangiLyu.
 
 For text to speech we have utilzed espeak for the initial prototype.
 [espeak](https://espeak.sourceforge.net/)
+<br>
+<br>
+## What our project does ?
 
-## A quick demo can be seen below.
+Detects the status and monuments in the scene and describe about them as shown in figure below:
+<br>
 
-![alt text](./images/nanodet.png)
-
+![alt text](./images/demo.png)
+<br>
+<br>
 ## Credits
 
 Qengineering RPi4 NanoDetPlus Licensed under [LICENSE](https://raw.githubusercontent.com/Qengineering/NanoDetPlus-ncnn-Raspberry-Pi-4/main/LICENSE)
