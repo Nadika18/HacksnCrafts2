@@ -2,15 +2,18 @@
 # Vision
 
 ## Problem Statement
+<br>
+Globally, there are approximately 1.3 billion people living with some form of blindness or visual impairment.  
 
-Vision plays an important role in the daily life of a person. From getting up to start the day, until ending it, eyes are the most important organs of our body. Unfortunately some people are not able to see this beautiful world. Visually impared people can’t easily recognize obstacles or stairs while using normal blind stick. They struggle with their day to day life and everyday activities.
+For visually impaired people, a visit to a museum  makes them feel excluded. And it is the duty of the museums to cater to people with a wide range of needs.
 
-![blind stick](https://thumbs.dreamstime.com/b/closed-eyes-icon-white-background-black-flat-line-art-isolated-155579255.jpg)
+![alt text](./images/visuall.png)
 
 The blind traveler should
 depend on any other guide like blind cane , people information , trained dogs, etc. About the **90% of the worlds visually
 impaired live in developing countries**. No safety features are present on the normal blind stick which is mostly used by visually impaired people for their visual aid.
-
+<br>
+<br>
 ## Solution
 Now there are other technical solution like Smart Blind Stick using sonic sensors and other components but these solutions still have many disadvantages for example; They cant detect obstructions that are hidden but very dangerous for the blind such as downward stairs, holes etc. Usually, the feedback information comes out as either vibration or sound signals. Our solution is to develop a smart glass which is not unlike any other smart glasses.
 
